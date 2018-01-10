@@ -1,4 +1,4 @@
-# SpotifyPredictML
+# Predicting a Song's Owner from its Audio Features
 
 ## Overview
 In this project, I used the Spotify Web API to extract the audio features of the songs I listened to most in 2017 (and did the same for a friend). I then used machine learning to try and get a computer to predict whether a song is from my playlist or his! 
